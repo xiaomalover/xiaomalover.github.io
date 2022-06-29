@@ -1,0 +1,96 @@
+<style>
+  /* General Styles */
+
+  body {
+    background: #81c161;
+  }
+
+  .text {
+    position: relative;
+    text-align: center;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: system-ui, sans-serif;
+    font-size: 1.25rem;
+  }
+
+  .explanation {
+    height: 400px;
+  }
+
+  .icon {
+    margin-right: 1rem;
+  }
+
+  /* Styles for creating the circuit. Nothing important here */
+  .tracks {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    /* Hard height to ensure scrolling */
+    height: 1200px;
+  }
+
+  .track {
+    background-color: #6c6d6e;
+    padding: 1rem;
+    border: 2px dashed #ed5f61;
+    height: 100%;
+    position: relative;
+  }
+
+  /* Checkered flag */
+  .goal {
+    position: absolute;
+    bottom: 10rem;
+    background-color: #4b4a4a;
+    background-size: cover;
+    width: 100%;
+    height: 24px;
+    left: 0;
+  }
+
+  /* Position of the racers. This is where the position sticky comes into place */
+  .car {
+    position: sticky;
+    top: 16rem;
+    z-index: 1;
+  }
+
+  .motorcycle {
+    position: sticky;
+    top: 8rem;
+    z-index: 1;
+  }
+
+  .runner {
+    position: sticky;
+    top: 4rem;
+    z-index: 1;
+  }
+</style>
+
+<section class="text start">
+  <span class="icon">🏁</span> Ready, set, go! Scroll to see the effect
+</section>
+<ul class="tracks">
+  <li class="track">
+    <div class="car">🏎</div>
+    <div class="goal"></div>
+  </li>
+  <li class="track">
+    <div class="motorcycle">🏍</div>
+    <div class="goal"></div>
+  </li>
+  <li class="track">
+    <div class="runner">🏃</div>
+    <div class="goal"></div>
+  </li>
+</ul>
+<section class="text explanation">
+  <span class="icon">⚠️</span> Notice how the racers only stick inside their
+  parent container, the track element, and don't overflow below that
+</section>
