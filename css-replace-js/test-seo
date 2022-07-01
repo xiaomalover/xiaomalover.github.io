@@ -1,0 +1,95 @@
+CS03 / #VG 66719	45750 Mrudula Penta	6/24/2022	Shopify Order Number: 66719, Shopify Transaction Id(s): 5415564410915, eTail Order Id: 4334421803043
+Edit | View	 	Cash Sale	CS04 / #VG 66696	6436 Kim Poulos	6/24/2022	Shopify Order Number: 66696, Shopify Transaction Id(s): 5415271530531, eTail Order Id: 4334164246563
+Edit | View	 	Cash Sale	CS05 / #VG 66685	45246 Autumn PR	6/24/2022	Shopify Order Number: 66685, eTail Order Id: 4333985202211
+Edit | View	 	Cash Sale	CS06 / #VG 66664	45715 Donna Molinda	6/24/2022	Shopify Order Number: 66664, Shopify Transaction Id(s): 5414906658851, eTail Order Id: 4333852688419
+Edit | View	 	Cash Sale	CS07 / #VG 66665	25493 Marianne Rollings	6/24/2022	Shopify Order Number: 66665, Shopify Transaction Id(s): 5414913605667, eTail Order Id: 4333858390051
+Edit | View	 	Cash Sale	CS08 / #VG 66656	37871 Emily Buonaiuto	6/24/2022	Shopify Order Number: 66656, Shopify Transaction Id(s): 5414848823331, eTail Order Id: 4333803896867
+Edit | View	 	Cash Sale	CS09 / #VG 66623	32744 Susan Havard	6/24/2022	Shopify Order Number: 66623, Shopify Transaction Id(s): 5414590971939, eTail Order Id: 4333607747619
+Edit | View	 	Cash Sale	CS10 / #VG 66590	45669 Melanie Burgess	6/24/2022	Shopify Order Number: 66590, Shopify Transaction Id(s): 5413992267811, eTail Order Id: 4333130711075
+Edit | View	 	Cash Sale	CS11 / #VG 66584	45291 Tamisha Shapiro	6/24/2022	Shopify Order Number: 66584, Shopify Transaction Id(s): 5413822529571, eTail Order Id: 4332987187235
+Edit | View	 	Cash Sale	CS12 / #VG 66587	45666 Frieda Mueller	6/24/2022	Shopify Order Number: 66587, Shopify Transaction Id(s): 5413922897955, eTail Order Id: 4333071499299
+Edit | View	 	Cash Sale	CS13 / #VG 66566	45650 Vicky Gonzalez	6/24/2022	Shopify Order Number: 66566, Shopify Transaction Id(s): 5413581881379, eTail Order Id: 4332786679843
+Edit | View	 	Cash Sale	CS14 / #VG 66541	41888 Virginia Miller	6/24/2022	Shopify Order Number: 66541, Shopify Transaction Id(s): 5413183291427, eTail Order Id: 4332502024227
+Edit | View	 	Cash Sale	CS15 / #VG 66536
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "xiaomalover",
+    
+    "sameAs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "url": "https:\/\/xiaomalover.myshopify.com"
+  }
+</script>
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Product",
+      "name": "Another T-Shirt",
+      "url": "https:\/\/xiaomalover.myshopify.com\/products\/long-field",
+      "image": [
+          "https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/2356\/6500\/products\/image15.jpg?v=1656471656\u0026width=400"
+        ],
+      "description": "Women's t-shirt",
+      "sku": "ak-1",
+      "brand": {
+        "@type": "Thing",
+        "name": "xiaomalover"
+      },
+      "offers": [{
+            "@type" : "Offer","sku": "ak-1","availability" : "http://schema.org/InStock",
+            "price" : 400.0,
+            "priceCurrency" : "CNY",
+            "url" : "https:\/\/xiaomalover.myshopify.com\/products\/long-field?variant=42393280774308"
+          },
+{
+            "@type" : "Offer","sku": "ak-2","availability" : "http://schema.org/InStock",
+            "price" : 400.0,
+            "priceCurrency" : "CNY",
+            "url" : "https:\/\/xiaomalover.myshopify.com\/products\/long-field?variant=42393280807076"
+          },
+{
+            "@type" : "Offer","sku": "ak-3","availability" : "http://schema.org/InStock",
+            "price" : 400.0,
+            "priceCurrency" : "CNY",
+            "url" : "https:\/\/xiaomalover.myshopify.com\/products\/long-field?variant=42393280839844"
+          },
+{
+            "@type" : "Offer","sku": "ak-4","availability" : "http://schema.org/InStock",
+            "price" : 400.0,
+            "priceCurrency" : "CNY",
+            "url" : "https:\/\/xiaomalover.myshopify.com\/products\/long-field?variant=42393280872612"
+          },
+{
+            "@type" : "Offer","sku": "ak-5","availability" : "http://schema.org/InStock",
+            "price" : 400.0,
+            "priceCurrency" : "CNY",
+            "url" : "https:\/\/xiaomalover.myshopify.com\/products\/long-field?variant=42393280905380"
+          },
+{
+            "@type" : "Offer","sku": "ak-6","availability" : "http://schema.org/InStock",
+            "price" : 400.0,
+            "priceCurrency" : "CNY",
+            "url" : "https:\/\/xiaomalover.myshopify.com\/products\/long-field?variant=42393280938148"
+          }
+]
+    }
+  </script>
+
+
+<div class="h-margin-t-default h-text-md" data-test="review-card--text">My hair does feel fairly soft but most leave ins can do that. I was expecting some reduction of frizz but no such luck. On to the next product…</div>
+<div class="h-margin-t-default h-text-md" data-test="review-card--text">It makes my daughters hair curls more defined but it does leave it not really moisturized. Also, I hate the smell of it. I’m not too fond of it</div>
